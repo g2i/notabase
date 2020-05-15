@@ -1,3 +1,4 @@
+# Required for g2i notion blog
 # Notabase (WIP)
 API Wrapper For Notion's Database
 
